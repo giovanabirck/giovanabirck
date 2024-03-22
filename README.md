@@ -12,7 +12,7 @@
 <p>With a multidisciplinary background in the artistic, cultural and entertainment industries, I have spent the past years specializing in, experimenting with, and researching Experience and Interaction Design. I learned to incorporate a holistic approach to my designs by implementing innovative thinking to solve complex problems.
 </p>
 
-<h3>Design</h3>
+<h3>Design <img src="design.gif" width="28"></h3>
 <p>
   <img alt="After Effects" title="After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/>
   <img alt="Illustrator" title="Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
