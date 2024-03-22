@@ -25,7 +25,7 @@
   <img alt="Sketch" title="Sketch" src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black"/>  
 </p>
 
-<h3>Languages & Technologies <img src="spark.gif" width="28"></h3>
+<h3>Languages & Technologies <img src="strong.gif" width="28"></h3>
 <p>
   <img alt="ChartJS" title="ChartJS" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"/>  
   <img alt="Expo" title="Expo" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"/>
@@ -45,7 +45,7 @@
   <img alt="Cypress" title="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>
 </p>
 
-<h3>Tools</h3>
+<h3>Tools <img src="team.gif" width="28"></h3>
 <p>
     <img alt="Jira" title="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
     <img alt="Notion" title="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
